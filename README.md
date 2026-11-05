@@ -2,7 +2,13 @@
 
 ## Features
 
+- Microcontroller: RP2040
+- Trasnceiver: SX1262 for long rage communication
+- 4 Layer PCB
+
 ## Why does this project exist?
+
+
 
 ## BOM
 
@@ -31,3 +37,4 @@ Credits
 
 ## Bonus
 
+Even after finishing it i still dont quite get it.
