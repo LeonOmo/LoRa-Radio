@@ -1,20 +1,32 @@
 # LoRa-Radio
 
+A 4 Layered LoRa puck powered by the RP2040 microcontroller.
+
 ## Features
 
 - Microcontroller: RP2040
 - Trasnceiver: SX1262 for long rage communication
-- 4 Layer PCB
+- Frequency: European 868 MHz 
+- PCB: 4 Layers
 
 ## Why does this project exist?
 
-
+I wanted to dive abit into radios / radio frequency / radio design... and so i built a lora puck with the given guide.
 
 ## BOM
 
+| Component | Function | LCSC Number |
+| :--- | :--- | :--- |
+| RP 2040 | Microcontroller | |
+| SX1262 | Radio Transciever | |
+| Johanson 0900FM15D0039 | IPD  | |
+| Peregrine PE4259 | RF Switch | |
+| Passives Inductors, Resistors | decoupling, filtering | |
+
+
 ## Tools
 
-- PCB Layout: KiCAD
+- PCB Design: KiCAD
 - Guide referance: https://blueprint.hackclub.com/starter-projects/lora
 
 ## Schematic
@@ -30,11 +42,11 @@
 
 ## Extra
 
-I didnt really understand it too well.
+I didnt really understand all the RF theory behind it too well but putting it together, routing the tracks, and making sure everything connects properly was still a great learning experience.
 
 Credits
 - https://blueprint.hackclub.com/starter-projects/lora
 
 ## Bonus
 
-Even after finishing it i still dont quite get it.
+Nothing yet.
