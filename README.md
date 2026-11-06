@@ -20,7 +20,6 @@ I wanted to dive abit into radios / radio frequency / radio design... and so i b
 | RP 2040 | Microcontroller | |
 | SX1262 | Radio Transciever | |
 | Johanson 0900FM15D0039 | IPD  | |
-| Peregrine PE4259 | RF Switch | |
 
 
 ## Tools
