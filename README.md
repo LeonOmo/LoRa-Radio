@@ -1,4 +1,4 @@
-# LoRa-Radio
+# LoRa-Puck
 
 A 4 Layered LoRa puck powered by the RP2040 microcontroller.
 
