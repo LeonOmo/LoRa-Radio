@@ -42,7 +42,7 @@ I wanted to dive abit into radios / radio frequency / radio design... and so i b
 
 ## Extra
 
-I didnt really understand all the RF theory behind it too well but putting it together, routing the tracks, and making sure everything connects properly was still a great learning experience.
+I didnt really understand all the RF theory behind it too well but putting it together routing the tracks and making sure everything connects properly was still a great learning experience.
 
 Credits
 - https://blueprint.hackclub.com/starter-projects/lora
